@@ -1,0 +1,676 @@
+[{
+  "_id": {
+    "$oid": "67b6136d7c27a60260a06cee"
+  },
+  "date": "2025-02-19",
+  "fixture": {
+    "id": 1345740,
+    "referee": "Massa, Davide, Italy",
+    "timezone": "UTC",
+    "date": "2025-02-19T17:45:00+00:00",
+    "timestamp": 1739987100,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 19381,
+      "name": "SIGNAL IDUNA PARK",
+      "city": "Dortmund"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png",
+      "winner": null
+    },
+    "away": {
+      "id": 228,
+      "name": "Sporting CP",
+      "logo": "https://media.api-sports.io/football/teams/228.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b6136d7c27a60260a06cef"
+  },
+  "date": "2025-02-19",
+  "fixture": {
+    "id": 1208305,
+    "referee": "C. Pawson",
+    "timezone": "UTC",
+    "date": "2025-02-19T19:30:00+00:00",
+    "timestamp": 1739993400,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 495,
+      "name": "Villa Park",
+      "city": "Birmingham"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/leagues/39.png",
+    "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+    "season": 2024,
+    "round": "Regular Season - 29",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 66,
+      "name": "Aston Villa",
+      "logo": "https://media.api-sports.io/football/teams/66.png",
+      "winner": null
+    },
+    "away": {
+      "id": 40,
+      "name": "Liverpool",
+      "logo": "https://media.api-sports.io/football/teams/40.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b6136d7c27a60260a06cf0"
+  },
+  "date": "2025-02-19",
+  "fixture": {
+    "id": 1345738,
+    "referee": "M. Oliver",
+    "timezone": "UTC",
+    "date": "2025-02-19T20:00:00+00:00",
+    "timestamp": 1739995200,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 671,
+      "name": "Parc des Princes",
+      "city": "Paris"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png",
+      "winner": null
+    },
+    "away": {
+      "id": 106,
+      "name": "Stade Brestois 29",
+      "logo": "https://media.api-sports.io/football/teams/106.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b6136d7c27a60260a06cf1"
+  },
+  "date": "2025-02-19",
+  "fixture": {
+    "id": 1345742,
+    "referee": "S. Vinčić",
+    "timezone": "UTC",
+    "date": "2025-02-19T20:00:00+00:00",
+    "timestamp": 1739995200,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 1143,
+      "name": "Philips Stadion",
+      "city": "Eindhoven"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 197,
+      "name": "PSV Eindhoven",
+      "logo": "https://media.api-sports.io/football/teams/197.png",
+      "winner": null
+    },
+    "away": {
+      "id": 496,
+      "name": "Juventus",
+      "logo": "https://media.api-sports.io/football/teams/496.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b6136d7c27a60260a06cf2"
+  },
+  "date": "2025-02-19",
+  "fixture": {
+    "id": 1345744,
+    "referee": "I. Kovács",
+    "timezone": "UTC",
+    "date": "2025-02-19T20:00:00+00:00",
+    "timestamp": 1739995200,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 1456,
+      "name": "Estadio Santiago Bernabéu",
+      "city": "Madrid"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 541,
+      "name": "Real Madrid",
+      "logo": "https://media.api-sports.io/football/teams/541.png",
+      "winner": null
+    },
+    "away": {
+      "id": 50,
+      "name": "Manchester City",
+      "logo": "https://media.api-sports.io/football/teams/50.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc959"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345762,
+    "referee": "François Letexier, France",
+    "timezone": "UTC",
+    "date": "2025-02-20T17:45:00+00:00",
+    "timestamp": 1740073500,
+    "periods": {
+      "first": 1740073500,
+      "second": null
+    },
+    "venue": {
+      "id": 910,
+      "name": "Stadio Olimpico",
+      "city": "Roma"
+    },
+    "status": {
+      "long": "First Half",
+      "short": "1H",
+      "elapsed": 26,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 497,
+      "name": "AS Roma",
+      "logo": "https://media.api-sports.io/football/teams/497.png",
+      "winner": null
+    },
+    "away": {
+      "id": 212,
+      "name": "FC Porto",
+      "logo": "https://media.api-sports.io/football/teams/212.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc95a"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345764,
+    "referee": "Anthony Taylor, England",
+    "timezone": "UTC",
+    "date": "2025-02-20T17:45:00+00:00",
+    "timestamp": 1740073500,
+    "periods": {
+      "first": 1740073500,
+      "second": null
+    },
+    "venue": {
+      "id": null,
+      "name": "Rams Park Stadyumu",
+      "city": "Istanbul"
+    },
+    "status": {
+      "long": "First Half",
+      "short": "1H",
+      "elapsed": 27,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 645,
+      "name": "Galatasaray",
+      "logo": "https://media.api-sports.io/football/teams/645.png",
+      "winner": null
+    },
+    "away": {
+      "id": 201,
+      "name": "AZ Alkmaar",
+      "logo": "https://media.api-sports.io/football/teams/201.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc95b"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345766,
+    "referee": "Matej Jug, Slovenia",
+    "timezone": "UTC",
+    "date": "2025-02-20T17:45:00+00:00",
+    "timestamp": 1740073500,
+    "periods": {
+      "first": 1740073500,
+      "second": null
+    },
+    "venue": {
+      "id": 1326,
+      "name": "Arena Naţională",
+      "city": "Bucureşti"
+    },
+    "status": {
+      "long": "First Half",
+      "short": "1H",
+      "elapsed": 27,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 559,
+      "name": "FCSB",
+      "logo": "https://media.api-sports.io/football/teams/559.png",
+      "winner": null
+    },
+    "away": {
+      "id": 619,
+      "name": "PAOK",
+      "logo": "https://media.api-sports.io/football/teams/619.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc95c"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345768,
+    "referee": "Alejandro Hernandez, Spain",
+    "timezone": "UTC",
+    "date": "2025-02-20T17:45:00+00:00",
+    "timestamp": 1740073500,
+    "periods": {
+      "first": 1740073500,
+      "second": null
+    },
+    "venue": {
+      "id": 1175,
+      "name": "Aspmyra Stadion",
+      "city": "Bodø"
+    },
+    "status": {
+      "long": "First Half",
+      "short": "1H",
+      "elapsed": 27,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 327,
+      "name": "Bodo/Glimt",
+      "logo": "https://media.api-sports.io/football/teams/327.png",
+      "winner": false
+    },
+    "away": {
+      "id": 415,
+      "name": "Twente",
+      "logo": "https://media.api-sports.io/football/teams/415.png",
+      "winner": true
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc95d"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345754,
+    "referee": "J. Brisard",
+    "timezone": "UTC",
+    "date": "2025-02-20T20:00:00+00:00",
+    "timestamp": 1740081600,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 438,
+      "name": "Doosan Aréna",
+      "city": "Plzeň"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 567,
+      "name": "Plzen",
+      "logo": "https://media.api-sports.io/football/teams/567.png",
+      "winner": null
+    },
+    "away": {
+      "id": 651,
+      "name": "Ferencvarosi TC",
+      "logo": "https://media.api-sports.io/football/teams/651.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc95e"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345756,
+    "referee": "S. Gözübüyük",
+    "timezone": "UTC",
+    "date": "2025-02-20T20:00:00+00:00",
+    "timestamp": 1740081600,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 1491,
+      "name": "Reale Arena",
+      "city": "Donostia-San Sebastián"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 548,
+      "name": "Real Sociedad",
+      "logo": "https://media.api-sports.io/football/teams/548.png",
+      "winner": null
+    },
+    "away": {
+      "id": 397,
+      "name": "FC Midtjylland",
+      "logo": "https://media.api-sports.io/football/teams/397.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc95f"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345758,
+    "referee": "C. Kavanagh",
+    "timezone": "UTC",
+    "date": "2025-02-20T20:00:00+00:00",
+    "timestamp": 1740081600,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 1117,
+      "name": "Johan Cruijff ArenA",
+      "city": "Amsterdam"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 194,
+      "name": "Ajax",
+      "logo": "https://media.api-sports.io/football/teams/194.png",
+      "winner": null
+    },
+    "away": {
+      "id": 1393,
+      "name": "Union St. Gilloise",
+      "logo": "https://media.api-sports.io/football/teams/1393.png",
+      "winner": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67b770712032065fa9bcc960"
+  },
+  "date": "2025-02-20",
+  "fixture": {
+    "id": 1345760,
+    "referee": "S. Schärer",
+    "timezone": "UTC",
+    "date": "2025-02-20T20:00:00+00:00",
+    "timestamp": 1740081600,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": null,
+      "name": "Lotto Park",
+      "city": "Brussel"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "flag": null,
+    "season": 2024,
+    "round": "Knockout Round Play-offs",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 554,
+      "name": "Anderlecht",
+      "logo": "https://media.api-sports.io/football/teams/554.png",
+      "winner": null
+    },
+    "away": {
+      "id": 611,
+      "name": "Fenerbahce",
+      "logo": "https://media.api-sports.io/football/teams/611.png",
+      "winner": null
+    }
+  }
+}]

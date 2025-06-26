@@ -1,0 +1,29 @@
+name: Daily Cron Job
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # 6 AM UTC daily
+  workflow_dispatch:  # Allows manual trigger for testing
+
+jobs:
+  run-cron:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm install
+        
+    - name: Run cron job
+      run: node index.js
+      env:
+        DATABASE_USERNAME: ${{ secrets.DATABASE_USERNAME }}
+        DATABASE_PASSWORD: ${{ secrets.DATABASE_PASSWORD }}

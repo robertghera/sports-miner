@@ -1,0 +1,82 @@
+Serie A season 2022-2023 relegation battle
+lipseste un season pentru ca i-am dat skip 2021-2022
+
+germany 2021-2022  2020-2021 la final ce e ??
+
+
+La liga din 2014-2015 nu mai are stats deloc
+Premier League din 2013-2014 nu mai are stats deloc
+Serie A din 2014-2015 nu mai are stats deloc
+Bundesliga din 2014-2015 nu mai are stats deloc
+Ligue 1 din 2014-2015 nu mai are stats deloc
+
+https://fbref.com/en/comps/20/2018-2019/schedule/2018-2019-Bundesliga-Scores-and-Fixtures
+4 seasons
+
+in season 2017-2018 in eredivisie groningen-utrecht has no possesio feynord-az
+
+"https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
+"https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures",
+"https://fbref.com/en/comps/11/schedule/Serie-A-Scores-and-Fixtures",
+"https://fbref.com/en/comps/20/schedule/Bundesliga-Scores-and-Fixtures",
+"https://fbref.com/en/comps/13/schedule/Ligue-1-Scores-and-Fixtures",
+
+{
+  "m": "d0701abfe89689dd561628ef8c4977fa",
+  "home_team": "Feyenoord",
+  "away_team": "AZ Alkmaar",
+  "date": 1520719200000,
+  "time": 1520783100000,
+  "season": "2017-2018",
+  "league": "Eredivisie",
+  "stats": {
+    "possesion_home": 28,
+    "possesion_away": 52,
+    "score_home": 2,
+    "score_away": 1,
+    "fouls_home": 16,
+    "fouls_away": 17,
+    "corners_home": 2,
+    "corners_away": 8,
+    "offsides_home": 2,
+    "offsides_away": 1,
+    "cards_yellow_home": 2,
+    "cards_yellow_away": 2,
+    "cards_red_home": 0,
+    "cards_red_away": 0,
+    "shots_home": 14,
+    "shots_away": 15,
+    "shots_on_target_home": 4,
+    "shots_on_target_away": 5,
+  }
+}
+
+{
+  "m": "01839d5475f0afef74dd8c8ec6826f46",
+  "home_team": "Groningen",
+  "away_team": "Utrecht",
+  "date": 1503781200000,
+  "time": 1503846900000,
+  "season": "2017-2018",
+  "league": "Eredivisie",
+  "stats": {
+    "possesion_home": 36,
+    "possesion_away": 64,
+    "score_home": 2,
+    "score_away": 1,
+    "fouls_home": 16,
+    "fouls_away": 12,
+    "corners_home": 0,
+    "corners_away": 13,
+    "offsides_home": 1,
+    "offsides_away": 0,
+    "cards_yellow_home": 2,
+    "cards_yellow_away": 3,
+    "cards_red_home": 0,
+    "cards_red_away": 0,
+    "shots_home": 5,
+    "shots_away": 30,
+    "shots_on_target_home": 3,
+    "shots_on_target_away": 13,
+  }
+}

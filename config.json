@@ -1,0 +1,15 @@
+{
+    "leaguesUrl": [
+        "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
+        "https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures",
+        "https://fbref.com/en/comps/11/schedule/Serie-A-Scores-and-Fixtures",
+        "https://fbref.com/en/comps/20/schedule/Bundesliga-Scores-and-Fixtures",
+        "https://fbref.com/en/comps/13/schedule/Ligue-1-Scores-and-Fixtures",
+        "https://fbref.com/en/comps/23/schedule/Eredivisie-Scores-and-Fixtures",
+        "https://fbref.com/en/comps/32/schedule/Primeira-Liga-Scores-and-Fixtures"
+    ],
+    "seasonToIterate": 1,
+    "headless": true,
+    "skip": 0,
+    "currentSeason": true
+}
